@@ -1,0 +1,1 @@
+#git init  - no terminal para iniciar um repositorio vaziogit 
